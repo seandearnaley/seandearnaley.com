@@ -7,8 +7,8 @@ module.exports = {
   subtitle: 'Software Engineer, Music Producer & Cool Dude',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 8,
+  googleAnalyticsId: '', // UA-73379983-2
   useKatex: false,
   menu: [
     {
@@ -28,8 +28,8 @@ module.exports = {
       email: 'seandearnaley@hotmail.com',
       facebook: '',
       telegram: '',
-      twitter: '@seandearnaley',
-      github: 'https://github.com/seandearnaley',
+      twitter: 'seandearnaley',
+      github: 'seandearnaley',
       rss: '',
       vkontakte: '',
       linkedin: 'sean-dearnaley-8577a973/',
