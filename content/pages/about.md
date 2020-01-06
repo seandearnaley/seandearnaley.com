@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about_me
+slug: about
 draft: false
 ---
 My name is Sean Dearnaley, I’m a software engineer, a music producer and a technology enthusiast.
