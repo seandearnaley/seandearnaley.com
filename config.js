@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Sean Dearnaley',
     photo: '/photo.jpg',
-    bio: 'Software Engineer, Music Producer & Cool Dude.',
+    bio: 'Software Engineer, Music Producer & Cool Dude.  Boston, MA.',
     contacts: {
       email: 'seandearnaley@hotmail.com',
       facebook: '',
