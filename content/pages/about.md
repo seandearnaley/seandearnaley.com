@@ -4,7 +4,7 @@ title: About me
 slug: about_me
 draft: false
 ---
-My name is SeanDearnaley, I’m a software engineer, a music producer and a technology enthusiast.
+My name is Sean Dearnaley, I’m a software engineer, a music producer and a technology enthusiast.
 
 I’ve been developing applications since I was a teenager. I started a popular music website when I was 14 and I’ve been producing music under the artist name Human Being since 1998.
 
