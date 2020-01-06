@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Sean Dearnaley',
+  subtitle: 'Software Engineer, Music Producer & Cool Dude',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -18,31 +18,28 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Sean Dearnaley',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer, Music Producer & Cool Dude.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'seandearnaley@hotmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '@seandearnaley',
+      github: 'https://github.com/seandearnaley',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'sean-dearnaley-8577a973/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: ''
+      youtube: '',
+      soundcloud: 'humanbeingmusic',
     }
   }
 };
