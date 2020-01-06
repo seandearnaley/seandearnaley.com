@@ -24,7 +24,9 @@ I went to university in Liverpool, England where I studied computers. There I wo
 
 … at night I would write music and produce records for myself and a variety of artists.
 
-More recently I put a significant amount of effort into education technology, working for a large Ed-Tech company (**[Curriculum Associates](https://www.curriculumassociates.com/)**)... I’ve began writing again focusing on technical articles and software tutorials.
+More recently I put a significant amount of effort into education technology, working for **[Curriculum Associates](https://www.curriculumassociates.com/)** I worked on the lesson delivery pipeline for 6 million kids... 
+
+In 2020, I’ve begun writing again, this time focusing on technical articles and software tutorials.
 
 I have a passion for science and technology. I love making tracks on my computer, I love fitness, I love virtual reality, I love learning.
 
