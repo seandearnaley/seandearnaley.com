@@ -21,6 +21,7 @@ I wrote a new technical preview article where I talk about the new version of Wi
 Published on [The Startup](
 https://medium.com/swlh/wsl-2-docker-edge-tech-preview-native-linux-containers-w-o-emulation-b41667e6dbef) Medium's largest active publication, followed by +553K people.
 
-https://medium.com/swlh/wsl-2-docker-edge-tech-preview-native-linux-containers-w-o-emulation-b41667e6dbef
+You can read it [@Medium](https://medium.com/swlh/wsl-2-docker-edge-tech-preview-native-linux-containers-w-o-emulation-b41667e6dbef)
 
-<img src="/media/linux-on-windows.png" alt="Windows Subsystem for Linux" width="600">
+<a href="
+https://medium.com/swlh/wsl-2-docker-edge-tech-preview-native-linux-containers-w-o-emulation-b41667e6dbef"><img src="/media/linux-on-windows.png" alt="Windows Subsystem for Linux" width="600"></a>

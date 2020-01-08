@@ -9,27 +9,27 @@ tags:
   - "News"
   - "Gatsby"
   - "Blog"
+  - "Linux"
+  - "Lumin"
 description: "Welcome to my new blog, here I'm going to be sharing my work, my thoughts, new music and articles/tutorials."
 socialImage: "/media/fireworks-4660808_1920.jpg"
 ---
-
-
 <img src="/media/fireworks-4660808_1920.jpg" alt="Fireworks" width="400">
 
-**Happy New Year!**
+# Happy New Year!
 
 Welcome to my new blog, here I'm going to be sharing my work, my thoughts, new music and articles/tutorials.   I've been meaning to start this site for a while, but I wanted to make sure that I had something to say.
 
-**What to expect from this blog**
+## What to expect from this blog
 
 I'm trying to write a new article every two weeks.  I will be focusing on software development, science and technology, hopefully I will also have a chance to touch upon electronic music and interleave my passions.
 
-**How I made this site: GatsbyJS / Netlify / Lumin**
+## How I made this site: GatsbyJS / Netlify / Lumin
 
 I made this site in less than 24 hrs using [GatsbyJS](https://www.gatsbyjs.org/) and the [Lumin Gatsby Starter Kit](https://github.com/alxshelepenok/gatsby-starter-lumen), hosting is provided by [Netlify](https://www.netlify.com/).  I've made the source code available on [Github](https://github.com/seandearnaley/seandearnaley.com).   Gatsby is an open source framework based on [React](https://reactjs.org/).  I had a really good experience working with it, basically it allows users to generate static sites from markdown, it makes great use of [GraphQL](https://graphql.org/), and has a great user eco-system of plugins, themes and starter kits.
 
 I did run into some gotcha's using WSL 2 but overall I was impressed at the level of customization and ease of use.   The [Lumin Gatsby Starter Kit](https://github.com/alxshelepenok/gatsby-starter-lumen) really helped get this up and running quickly and I integrated it with [Netlify CMS](https://www.netlifycms.org/) to update the content easily.
 
-<img src="/media/Gatsby_Logo.png" alt="Gatsby.JS" width="200">
+<a href="https://www.gatsbyjs.org"><img src="/media/Gatsby_Logo.png" alt="Gatsby.JS" width="200"></a>
 
 I'm going to be digging deeper into these frameworks later, I'm writing an article about Gatsby JS but this was as a great opportunity to get my feet wet with the [JAMStack](https://jamstack.org/).
