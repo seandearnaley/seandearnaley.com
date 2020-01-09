@@ -16,7 +16,7 @@ I’ve been developing applications since I was a teenager. I started a popular 
 
 I was born in Telford, England. I moved around a lot as child because my dad served in the British army. I spent some time in Germany as a kid, and moved to Ireland with my family when I was 10.
 
-I began developing websites in my early teens, I built up a large following with my music website, and in 1997 I was fortunate enough to win several internationally recognized awards which allowed me to move to the United States to work. I was hired to write for the popular hip-hop group **[Wu-Tang Clan](https://wutangclan.com/)**.
+I began developing websites in my early teens, I built up a large following with my music website TheDSC, in 1997 I was fortunate enough to win several internationally recognized awards which allowed me to move to the United States to work. I was hired to write for the popular hip-hop group **[Wu-Tang Clan](https://wutangclan.com/)**.
 
 ... shortly thereafter I began developing commercial applications for governments and corporations. I worked on many important projects, including intranet systems for the **[United Nations (the International Atomic Energy Agency)](https://www.iaea.org/)**, an ISO 9000 management system for **[British Oxygen](https://www.boconline.co.uk/)** and several intranet systems for companies like **[Sterilite](https://www.sterilite.com/)**, **[Intel](https://www.intel.com/)** and **Compaq**.
 
