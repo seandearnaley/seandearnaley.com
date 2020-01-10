@@ -18,7 +18,11 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    }
+    },
+    {
+      label: 'Music',
+      path: '/pages/human_being_music'
+    },
   ],
   author: {
     name: 'Sean Dearnaley',
