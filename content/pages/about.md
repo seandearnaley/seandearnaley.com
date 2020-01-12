@@ -24,9 +24,7 @@ I went to university in Liverpool, England where I studied computers. There I wo
 
 … at night I would write music and produce records for myself and a variety of artists.
 
-In 2017 I began working for Curriculum Associates, where I was a Principal Engineer for a lesson delivery pipeline servicing 6 million kids.
-
-In 2020, I’ve begun writing again, this time focusing on technical articles and software tutorials.
+In 2017 I worked for an education company where I was a Principal Engineer on a lesson delivery pipeline servicing 6 million kids across the United States.
 
 I have a passion for science and technology. I love making tracks on my computer, I love fitness, I love virtual reality, I love learning.
 
