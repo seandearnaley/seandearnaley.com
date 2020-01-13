@@ -9,6 +9,7 @@ tags:
   - "Software"
   - "Programming"
   - "JAMstack"
+  - "GraphQL"
   - "Serverless"
   - "Gatsby.JS"
   - "Web Development"

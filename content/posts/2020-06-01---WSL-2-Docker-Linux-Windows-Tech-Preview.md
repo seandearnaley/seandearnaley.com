@@ -12,6 +12,7 @@ tags:
   - "Linux"
   - "Windows"
   - "Docker"
+  - "Programming"
 description: "Check out my first article published on The Startup / Medium."
 socialImage: "/media/linux-on-windows.png"
 ---

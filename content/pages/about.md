@@ -12,7 +12,7 @@ draft: false
 
 My name is **Sean Dearnaley**, I’m a software engineer, a music producer and a technology enthusiast.
 
-I’ve been developing applications since I was a teenager. I started a popular music website when I was 14 and I’ve been producing music under the artist name **[Human Being](https://soundcloud.com/humanbeingmusic)** since 1998.
+I’ve been developing applications since I was a teenager. I started a popular music website when I was 14 and I’ve been producing music under the artist name **[Human Being](https://soundcloud.com/humanbeingmusic)** since 1998.  I've also worked with a variety of artists.
 
 I was born in Telford, England. I moved around a lot as child because my dad served in the British army. I spent some time in Germany as a kid, and moved to Ireland with my family when I was 10.
 
@@ -20,11 +20,11 @@ I began developing websites in my early teens, I built up a large following with
 
 ... shortly thereafter I began developing commercial applications for governments and corporations. I worked on many important projects, including intranet systems for the **[United Nations (the International Atomic Energy Agency)](https://www.iaea.org/)**, an ISO 9000 management system for **[British Oxygen](https://www.boconline.co.uk/)** and several intranet systems for companies like **[Sterilite](https://www.sterilite.com/)**, **[Intel](https://www.intel.com/)** and **Compaq**.
 
-I went to university in Liverpool, England where I studied computers. There I would establish a specialization in Homelessness Management Systems. I also contributed to the development of Liverpool's first surround sound studio with several Liverpool Institute of Performing Arts alumni, the **Binary Cell**. I did some significant work for the **United States Federal Government** working on database systems, advanced reporting and developed several mobile applications for homelessness and social service platforms (**Point In Time**, **[Counting.Us](https://counting.us/)**).
+I went to university later in life, I was in my mid twenties when I started.. I studied in Liverpool, England where I did a computer s. degree. I continued working full time, I established a specialization in Homelessness Management Systems with Simtech Solutions.  I did some significant work for the **United States Federal Government** working on database systems, advanced reporting and developed several mobile applications for homelessness and social service platforms (**Point In Time**, **[Counting.Us](https://counting.us/)**).
 
-… at night I would write music and produce records for myself and a variety of artists.
+I contributed to the development of Liverpool's first surround sound studio with several Liverpool Institute of Performing Arts alumni, the **Binary Cell**.
 
-In 2017 I worked for an education company where I was a Principal Engineer on a lesson delivery pipeline servicing 6 million kids across the United States.
+I moved back to the US in 2013. In 2017 I worked as a Principal Engineer for a large education company in the Boston area, I worked on a lesson delivery pipeline providing education to 6 million kids across the United States.
 
 I have a passion for science and technology. I love making tracks on my computer, I love fitness, I love virtual reality, I love learning.
 
