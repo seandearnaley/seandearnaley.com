@@ -1,6 +1,6 @@
 ---
 template: page
-title: Human Being Music
+title: Human Being Music ∀
 slug: human_being_music
 draft: false
 ---
