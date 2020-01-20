@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Software Engineer, Music Producer & Cool Dude',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 8,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-155359968-1',
   useKatex: false,
   menu: [

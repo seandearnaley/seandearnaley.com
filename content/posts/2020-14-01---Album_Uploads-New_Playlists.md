@@ -3,7 +3,7 @@ title: "Human Being Music"
 date: "2020-01-14T18:03:36.224Z"
 template: "post"
 draft: false
-slug: "albums reposted"
+slug: "albums-reposted"
 category: "Music"
 tags:
   - "Music"
