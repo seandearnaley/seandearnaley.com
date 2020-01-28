@@ -4,7 +4,7 @@ date: "2020-01-06T20:09:31.476Z"
 template: "post"
 draft: false
 slug: "medium-wsl-2-docker-linux-windows-technical-preview"
-category: "Software"
+category: "Programming"
 tags:
   - "Software"
   - "WSL"

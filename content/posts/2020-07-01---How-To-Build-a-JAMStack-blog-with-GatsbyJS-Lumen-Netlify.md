@@ -4,7 +4,7 @@ date: "2020-01-08T00:03:13.250Z"
 template: "post"
 draft: false
 slug: "how-to-build-a-jamstack-blog-with-gatsbyjs-lumen-netlify"
-category: "Software"
+category: "Programming"
 tags:
   - "Software"
   - "Programming"

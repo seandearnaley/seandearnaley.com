@@ -4,7 +4,7 @@ date: "2020-01-20T16:15:31.804Z"
 template: "post"
 draft: false
 slug: "coventional-graphql-api-generation-made-easy-with-warthog-and-nodejs"
-category: "Software"
+category: "Programming"
 tags:
   - "Software"
   - "Programming"

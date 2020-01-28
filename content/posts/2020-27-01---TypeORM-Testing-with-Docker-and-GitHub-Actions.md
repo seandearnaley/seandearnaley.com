@@ -4,7 +4,7 @@ date: "2020-01-27T19:04:42.252Z"
 template: "post"
 draft: false
 slug: "typeorm-testing-with-docker-and-github-actions"
-category: "Software"
+category: "Programming"
 tags:
   - "Software"
   - "Programming"

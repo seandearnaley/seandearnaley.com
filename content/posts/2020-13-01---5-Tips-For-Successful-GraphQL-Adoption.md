@@ -4,7 +4,7 @@ date: "2020-01-13T12:55:08.475Z"
 template: "post"
 draft: false
 slug: "5-tips-for-successful-graphql-adoption"
-category: "Software"
+category: "Programming"
 tags:
   - "Software"
   - "Programming"
