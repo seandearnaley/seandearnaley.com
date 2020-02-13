@@ -192,7 +192,7 @@ module.exports = {
     },
     'gatsby-plugin-remove-serviceworker',
     'gatsby-plugin-catch-links',
-    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-react-helmet-async',
     {
       resolve: 'gatsby-plugin-sass',
       options: {
