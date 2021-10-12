@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://www.seandearnaley.com',
   pathPrefix: '/',
   title: 'Blog by Sean Dearnaley',
-  subtitle: 'Software Engineer, Music Producer & Cool Dude',
+  subtitle: 'Software Engineer, Music Producer, Human Being',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Sean Dearnaley',
     photo: '/photo.jpg',
-    bio: 'Software Engineer, Music Producer & Cool Dude.  Boston, MA.',
+    bio: 'Software Engineer, Music Producer, Human Being',
     contacts: {
       email: 'seandearnaley@hotmail.com',
       facebook: '',
