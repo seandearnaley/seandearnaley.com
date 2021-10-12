@@ -42,7 +42,7 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UCSj0EB8Mn299OJEv9xzy6pg',
       soundcloud: 'humanbeingmusic',
     }
   }
