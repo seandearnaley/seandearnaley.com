@@ -16,9 +16,9 @@ description: "new music videos out now."
 socialImage: "/media/motion-shot.png"
 ---
 
-I've 2 new music videos and I'm keeping my [YouTube Channel](https://www.youtube.com/channel/UCSj0EB8Mn299OJEv9xzy6pg) Updated.
+I've made 2 new music videos and I'm trying to keep my [YouTube Channel](https://www.youtube.com/channel/UCSj0EB8Mn299OJEv9xzy6pg) Updated.
 
-This were built using some really code new technology... these were synthesized entirely using artificial intelligence.   I used several models to get these results, I'm also writing a new article about the process, stay tuned for that! 
+I used several AI models to get these results, I'm also writing a new article about the process, stay tuned for that! 
 
 The heavy lifting was done by [Disco Diffusion](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb) and [real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
