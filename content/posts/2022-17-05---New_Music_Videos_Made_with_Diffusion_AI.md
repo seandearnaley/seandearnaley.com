@@ -7,6 +7,7 @@ slug: "new_music_videos_ai"
 category: "Music"
 tags:
   - "Music"
+  - "AI"
   - "Human Being"
   - "Motion"
   - "Hybrid"

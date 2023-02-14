@@ -4,22 +4,22 @@ title: About me
 slug: about
 draft: false
 ---
+## Bio written by ChatGPT
 
-<figure class="float-right" style="width: 200px">
- <img src="/media/3233809970622.jpg" alt="Producing @ Home">
+Meet Sean Dearnaley - a software engineer, music producer, and technology enthusiast. Born in England and raised in a family with a military background, Sean moved around frequently as a child, including a 3-year stay in Germany before finally settling in Ireland at the age of 10.
+
+With a passion for technology, Sean began developing applications at a young age. At 14, he started a successful music website, and since 1998, has been producing music under the artist name [Human Being](https://open.spotify.com/artist/4h5wHTiBLKxl91tKgOW6XW?si=DD_PmghZQ-idyIDhm5UsOA). His early success led to recognition and awards, eventually allowing him to move to the United States and write for the legendary hip-hop group [Wu-Tang Clan](https://wutangclan.com/).
+
+With over two decades of experience in the field, Sean has a proven track record of delivering innovative solutions for governments and corporations. He has worked on a variety of projects, including intranet systems for the [International Atomic Energy Agency (IAEA) of the United Nations](https://www.iaea.org/), an ISO 9000 management system for [British Oxygen](https://www.boconline.co.uk/), and several intranet systems for companies such as [Sterilite](https://www.sterilite.com/), [Intel](https://www.intel.com/), and Compaq. Sean also spent several years working on homelessness management systems with [Simtech Solutions](http://www.simtechsolutions.com/), contributing to the development of databases, advanced reporting, and mobile applications for homelessness and social service platforms.
+
+While studying Computer Science at Liverpool, England, Sean had the opportunity to contribute to the development of the Binary Cell, the city's first surround sound studio in collaboration with several alumni of the Liverpool Institute of Performing Arts. Later, as a Principal Engineer for a large education company in the Boston area, Sean worked on a lesson delivery pipeline that provided education to 6 million children across the United States.
+
+Today, Sean is a part of the team at [Indigo AG](https://www.indigoag.com/), a cutting-edge ag-tech startup based in Boston, MA. He continues to pursue his diverse interests, including writing and sharing his thoughts on Medium ([writing](https://medium.com/@seandearnaley)) and maintaining a professional network on LinkedIn ([professional network](https://www.linkedin.com/in/sean-dearnaley-8577a973/)).
+
+Don't miss the opportunity to learn more about Sean's music and his journey as a multi-faceted professional.
+
+
+<figure>
+ <img src="/media/sean-avatars.png" alt="Sean Dreambooth Portraits">
  <figcaption>Sean Dearnaley</figcaption>
 </figure>
-
-My name is **Sean Dearnaley**, I’m a software engineer, a music producer, and a technology enthusiast. I was born in England. I moved around a lot as a child (my father was in the army), I lived in Germany for 3 years and moved to Ireland when when I was 10 years old.
-
-I’ve been developing applications since I was a teenager. I started a popular music website when I was 14 and I’ve been producing music under the artist name **[Human Being](https://open.spotify.com/artist/4h5wHTiBLKxl91tKgOW6XW?si=DD_PmghZQ-idyIDhm5UsOA)** since 1998.  I built up a large following with my music website TheDSC, in 1997 I was fortunate enough to win several internationally recognized awards which allowed me to move to the United States. I was hired to write for the popular hip-hop group **[Wu-Tang Clan](https://wutangclan.com/)**. 
-
-In 2002 I began developing commercial applications for governments and corporations. I worked on many projects, including intranet systems for the **[United Nations (the International Atomic Energy Agency)](https://www.iaea.org/)**, an ISO 9000 management system for **[British Oxygen](https://www.boconline.co.uk/)** and several intranet systems for companies like **[Sterilite](https://www.sterilite.com/)**, **[Intel](https://www.intel.com/)**, and **Compaq**.  I spent several years working on Homelessness Management Systems with [Simtech Solutions](http://www.simtechsolutions.com/). I did significant work for the United States Federal Government working on databases, advanced reporting and several mobile applications for homelessness and social service platforms (**Point In Time**, **[Counting.Us](https://counting.us/)**). 
-
-During my CS studies in Liverpool, England, I contributed to the development of the Binary Cell, the cities first surround sound studio/ a collaboration with several Liverpool Institute of Performing Arts alumni,
-
-In 2017 I worked as a Principal Engineer for a large education company in the Boston area, I worked on a lesson delivery pipeline providing education to 6 million kids across the United States.
-
-Today I work for [Indigo AG](https://www.indigoag.com/), a AG-Tech startup based in Boston, MA.
-
-Check out [my music](https://open.spotify.com/artist/4h5wHTiBLKxl91tKgOW6XW), check out my [writing](https://medium.com/@seandearnaley), join my [professional network](https://www.linkedin.com/in/sean-dearnaley-8577a973/) and please [get in touch](mailto:seandearnaley@hotmail.com) if I can help you.
