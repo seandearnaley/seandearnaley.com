@@ -27,12 +27,12 @@ module.exports = {
   author: {
     name: "Sean Dearnaley",
     photo: "/photo.jpg",
-    bio: "Software Engineer, Music Producer, Human Being",
+    bio: "Software Engineer, Tech Lead, Music Producer, Human Being",
     contacts: {
       email: "seandearnaley@hotmail.com",
       facebook: "",
       telegram: "",
-      twitter: "seandearnaley",
+      twitter: "",
       github: "seandearnaley",
       rss: "",
       vkontakte: "",
