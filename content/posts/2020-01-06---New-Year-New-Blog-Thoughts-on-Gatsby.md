@@ -9,7 +9,6 @@ tags:
   - "News"
   - "Gatsby"
   - "Blog"
-  - "Linux"
   - "Lumen"
 description: "Welcome to my new blog, here I'm going to be sharing my work, my thoughts, new music and articles/tutorials."
 socialImage: "/media/fireworks-4660808_1920.jpg"
