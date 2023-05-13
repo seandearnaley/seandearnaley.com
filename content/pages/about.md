@@ -19,7 +19,4 @@ Sean spent 3 years at [Indigo AG](https://www.indigoag.com/), a cutting-edge ag-
 Don't miss the opportunity to learn more about Sean's music and his journey as a multi-faceted professional.
 
 
-<figure>
- <img src="/media/sean-avatars.png" alt="Sean Dreambooth Portraits" width="550" height="551">
- <figcaption>Sean Dearnaley</figcaption>
-</figure>
+<img src="/media/sean-avatars.png" alt="Sean Dreambooth Portraits" width="550">
