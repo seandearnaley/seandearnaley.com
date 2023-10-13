@@ -33,5 +33,3 @@ I hope you find the article and video helpful, and I'd love to hear your feedbac
 
 https://github.com/seandearnaley/reddit-gpt-summarizer
 https://medium.com/@seandearnaley/building-a-reddit-thread-summarizer-with-chatgpt-api-5b0dcd50b88e
-
-### HUGE SHOUTOUT TO GPT-4 for creating the above content, not perfect but impressed that its even attempting to complete this sentence.
