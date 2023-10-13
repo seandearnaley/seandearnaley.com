@@ -7,9 +7,6 @@ draft: false
 
 ## Isolated EP 2021
 
-Released on [Distrokid](
-https://distrokid.com/hyperfollow/humanbeing2/isolated-2)
-
 https://open.spotify.com/album/7mZM8k5wBDcQc8PQIPlube
 
 ## Extraordinary Rendition 2013
